@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dharmesh Menaria</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on **a full stack web application that tracks your expenses!**
+- 🔭 Currently Engineering @**Nalashaa**
 
-- 🌱 I’m currently learning **WebRTC (Web Real-Time Communication)**
-
-- 👯 I’m looking to collaborate on **web development projects with my expertise in backend development.**
+- 👯 I’m looking to collaborate on **web development projects with my expertise in scalable engineering and healthcare domain**
 
 - 📫 How to reach me **dharmeshmenaria02@gmail.com**
 
