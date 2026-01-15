@@ -70,14 +70,6 @@ Aequitas is a **comprehensive retail stock trading platform** built from the gro
 
 👉 **Live Demo:** https://aequitas-prod.vercel.app/  
 👉 **Source Code:** https://github.com/imm7d4/Aequitas 
----
-
-### 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=imm7d4&show_icons=true&theme=default"/>
-</p>
-
----
 
 ### 🎯 Current Focus
 - Backend system design & scalability
