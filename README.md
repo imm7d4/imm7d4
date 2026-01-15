@@ -66,14 +66,15 @@ Aequitas is a **comprehensive retail stock trading platform** built from the gro
   - Order management & trading UI  
 - MongoDB for persistence, Gorilla Mux for routing, and Zustand for frontend state  
 
-👉 *Focus:* scalable full-stack architecture, progressive delivery, and solid engineering practices. :contentReference[oaicite:1]{index=1}
+👉 *Focus:* scalable full-stack architecture, progressive delivery, and solid engineering practices. 
 
-
+👉 **Live Demo:** https://aequitas-prod.vercel.app/  
+👉 **Source Code:** https://github.com/imm7d4/Aequitas 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default"/>
+<img src="https://github-readme-stats.vercel.app/api?username=imm7d4&show_icons=true&theme=default"/>
 </p>
 
 ---
